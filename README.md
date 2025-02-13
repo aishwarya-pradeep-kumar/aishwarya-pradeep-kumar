@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @aishwarya-pradeep-kumar
+- 👋 Hi, I’m @aishwarya-pradeep-kumar, a new mom and experienced data engineer
 - 👀 I’m interested in distributed systems and data applications
-- 🌱 I’m currently learning Apache spark and planning to give my databricks certification
+- 🌱 I’m currently going back to the basics and learning more about networking and system design
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 aishwarya-pradeep-kumar/aishwarya-pradeep-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
